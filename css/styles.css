@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+body{
+    font-size: 12px;
+    font-family: "Ubuntu", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  user-select: none; /* Standard syntax */
+  -webkit-user-select: none; /* Webkit (Safari, Chrome) */
+-moz-user-select: none; /* Firefox */
+    -ms-user-select: none; /* Internet Explorer/Edge */
+    -o-user-select: none; /* Opera */
+}
+.ubuntu-regular {
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.ubuntu-medium {
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.ubuntu-bold {
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+.bemvindo{
+    font-size: 18px;
+}
+
+/* Desativar seleção de texto */
+.no-select {
+    user-select: none; /* Standard syntax */
+    -webkit-user-select: none; /* Webkit (Safari, Chrome) */
+    -moz-user-select: none; /* Firefox */
+    -ms-user-select: none; /* Internet Explorer/Edge */
+    -o-user-select: none; /* Opera */
+}
+
